@@ -1,1 +1,1 @@
-# it-skills-portfolio
+# IT-Skills-Portfolio
