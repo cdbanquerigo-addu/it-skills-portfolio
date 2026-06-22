@@ -52,8 +52,8 @@ Additional Constraints:
 | Version | Prompt | Weakness | Improvement |
 |----------|--------|----------|-------------|
 | **V1** | Create a communication campaign for farmers. | Too generic; no geographic context or audience. | Add a specific location and define the communication objective. |
-| **V2** | Create a communication campaign for vegetable farmers in Davao del Norte promoting efficient agricultural logistics. | Better localization but lacks stakeholder identification and formatting requirements. | Specify stakeholders, tone, and desired output format. |
-| **V3 (Final)** | You are an LGU Communication Specialist. Develop a professional action plan for vegetable farmers in Davao del Norte focusing on agricultural logistics. Address barangay officials, cooperatives, transport groups, and farmers. Use clear headings, bullet points, localized examples, and practical recommendations while maintaining a formal government tone. | Fully localized, audience-specific, structured, and reusable. | Ready for repeated use across LGU communication projects. |
+| **V2** | Create a communication campaign for vegetable farmers in Davao del Norte promoting efficient agricultural logistics. | Better localization but lacks stakeholder identification and formatting. | Specify output format and include key stakeholders. |
+| **V3 (Final)** | You are an LGU Communication Specialist. Develop a professional action plan for vegetable farmers in Davao del Norte focusing on agricultural logistics. Address barangay officials, cooperatives, and farmers. Use a formal government tone. | Comprehensive and context-specific. | Ready for production use. |
 
 ---
 
@@ -86,14 +86,8 @@ The icon should communicate localized public service, agriculture, and community
 
 ### Preview
 
-```
-        📍
-      _______
-     /       \
-    |  🏛️   |
-     \_______/
-         💬
-        🌾
-```
+![Davao Agro-Logistics Icon](davao-agro-logistics-icon.svg)
 
-> **Note:** The preview is a placeholder. Generate the final icon using an AI image generation tool (e.g., ChatGPT Images, DALL·E, or Adobe Firefly) following the design prompt above.
+> **Davao Agro-Logistics** - "From Farm to Market, Mindanao Strong"
+> 
+> This icon represents the integrated approach to agricultural communication and logistics in the Davao Region, combining farm-to-market supply chains with local government support systems.
