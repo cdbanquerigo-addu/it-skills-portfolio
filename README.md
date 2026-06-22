@@ -177,35 +177,29 @@ AI-assisted literature reviews are valuable for rapid thematic mapping of comple
 
 ---
 
-# 📊 Data Analytics & Visual Report  
-### Mindanao Palay Production (2020–2025)
+### Data Analytics & Visual Report
+
+#### Dataset Focus: Mindanao Palay Production Index (2020–2025 Regional Analysis)
 
 ---
 
-## 1. Data Cleaning Summary
-- Standardized production values into a unified index (MT equivalent)
-- Handled missing 2023 values using trend interpolation
-- Removed inconsistent formatting across regional datasets
+#### 1. Data Cleaning Protocol Log
+- **Raw Input Problem:** The dataset contained inconsistent yearly production entries across Mindanao provinces, missing values for 2023, and mixed formatting between raw production figures and indexed values. Several duplicate province-year records also caused distortions in trend analysis.
+- **AI Cleaning Instruction:** `"Scan this dataset. Identify all null values in the 'Production' column and replace them using median-based interpolation within each provincial cluster. Standardize all values into a unified Production Index (MT-equivalent scale). Remove duplicate records and restructure the dataset into a consistent time-series format from 2020–2025. Output first 5 rows of cleaned data."`
+- **Result:** Successfully normalized production data across five Mindanao provinces, producing a structured 6-year time-series dataset with complete temporal continuity.
 
 ---
 
-## 2. Visualization 1 — Production Trend (2020–2025)
+#### 2. Visualizations Generated
 
-![Trend Chart](AI/Trend.png)
+![Mindanao Production Trend](AI/Trend.png)
 
-### Insight:
-Production dropped in 2023 due to climate stress conditions, then recovered steadily by 2025.
-
----
-
-## 3. Visualization 2 — Regional Output (2025)
-
-![Regional Chart](AI/Regional.png)
-
-### Insight:
-Bukidnon leads production, while coastal provinces show slightly lower output stability.
+![Mindanao Provincial Output Comparison](AI/Regional.png)
 
 ---
 
-## 4. Policy Insight
-The 2023 dip reflects climate vulnerability in Mindanao agriculture. Investment in irrigation and climate-resilient farming systems is recommended.
+#### 3. Human Analytical Narrative (The 'Why' Factor)
+
+"The data chart clearly shows an abrupt decline in Mindanao palay production centered in 2023. While the automated AI analysis attributes this drop to normal agricultural variability, contextual interpretation indicates that the decline aligns strongly with a severe El Niño-related drought period affecting large portions of Southern and Central Mindanao.
+
+This drop emphasizes the urgent need for NEDA and local LGUs to invest heavily in climate-resilient agricultural infrastructure such as solar-powered irrigation systems, improved water retention farming techniques, and early-warning climate forecasting systems. Without structural intervention, similar climate shocks may continue to disrupt regional food security stability."
