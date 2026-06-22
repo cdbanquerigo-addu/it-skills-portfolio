@@ -177,4 +177,35 @@ AI-assisted literature reviews are valuable for rapid thematic mapping of comple
 
 ---
 
-## End of Document
+# 📊 Data Analytics & Visual Report  
+### Mindanao Palay Production (2020–2025)
+
+---
+
+## 1. Data Cleaning Summary
+- Standardized production values into a unified index (MT equivalent)
+- Handled missing 2023 values using trend interpolation
+- Removed inconsistent formatting across regional datasets
+
+---
+
+## 2. Visualization 1 — Production Trend (2020–2025)
+
+![Trend Chart](AI/Trend.png)
+
+### Insight:
+Production dropped in 2023 due to climate stress conditions, then recovered steadily by 2025.
+
+---
+
+## 3. Visualization 2 — Regional Output (2025)
+
+![Regional Chart](AI/Regional.png)
+
+### Insight:
+Bukidnon leads production, while coastal provinces show slightly lower output stability.
+
+---
+
+## 4. Policy Insight
+The 2023 dip reflects climate vulnerability in Mindanao agriculture. Investment in irrigation and climate-resilient farming systems is recommended.
