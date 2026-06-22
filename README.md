@@ -86,7 +86,7 @@ The icon should communicate localized public service, agriculture, and community
 
 ### Preview
 
-![Davao Agro-Logistics Icon](davao-agro-logistics-icon.svg)
+![Davao Agro-Logistics Icon](AI/Davao%20Agro%20System%20Logo.svg)
 
 > **Davao Agro-Logistics** - "From Farm to Market, Mindanao Strong"
 > 
