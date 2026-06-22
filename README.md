@@ -86,17 +86,11 @@ The icon should communicate localized public service, agriculture, and community
 
 ### Preview
 
-```
-        📍
-      _______
-     /       \
-    |  🏛️   |
-     \_______/
-         💬
-        🌾
-```
+![Davao Agro-Logistics System Logo](AI/Davao%20Agro%20System%20Logo.svg)
 
-> **Note:** The preview is a placeholder. Generate the final icon using an AI image generation tool (e.g., ChatGPT Images, DALL·E, or Adobe Firefly) following the design prompt above.
+> **Davao Agro-Logistics System Logo** — "From Farm to Market, Mindanao Strong"
+>
+> This icon represents the integrated approach to agricultural communication and logistics in the Davao Region, combining farm-to-market supply chains with local government support systems.
 
 ---
 
@@ -112,11 +106,11 @@ The icon should communicate localized public service, agriculture, and community
 
 ## 1. AI-Generated Literature Summary
 
-An AI-assisted synthesis of literature on Mindanao’s energy system identifies the following key themes:
+An AI-assisted synthesis of literature on Mindanao's energy system identifies the following key themes:
 
-- Mindanao’s power grid remains heavily dependent on coal-fired plants for baseload electricity generation.
+- Mindanao's power grid remains heavily dependent on coal-fired plants for baseload electricity generation.
 - Renewable energy sources such as hydroelectric (Agus-Pulangi complex), geothermal, and solar contribute significantly but are not yet dominant.
-- The Agus-Pulangi hydroelectric system remains a critical backbone of Mindanao’s renewable energy supply but is highly vulnerable to seasonal drought and El Niño events.
+- The Agus-Pulangi hydroelectric system remains a critical backbone of Mindanao's renewable energy supply but is highly vulnerable to seasonal drought and El Niño events.
 - Transmission constraints and grid bottlenecks managed by the National Grid Corporation of the Philippines (NGCP) limit efficient renewable energy integration.
 - The Department of Energy (DOE) promotes renewable energy expansion through long-term energy transition policies, but implementation is gradual.
 - Solar energy capacity is increasing, but integration into the grid remains uneven due to infrastructure and stability limitations.
@@ -147,7 +141,7 @@ An AI-assisted synthesis of literature on Mindanao’s energy system identifies 
 
 ## 4. Critical Reflection on AI Output
 
-AI-generated literature summaries effectively identify major structural components of Mindanao’s energy system, particularly the dominance of coal-fired baseload power and the importance of hydropower infrastructure such as the Agus-Pulangi complex.
+AI-generated literature summaries effectively identify major structural components of Mindanao's energy system, particularly the dominance of coal-fired baseload power and the importance of hydropower infrastructure such as the Agus-Pulangi complex.
 
 However, limitations were observed in the form of generalized statements that may overstate the pace of renewable energy transition. AI outputs also tend to blur distinctions between policy targets and current operational realities.
 
