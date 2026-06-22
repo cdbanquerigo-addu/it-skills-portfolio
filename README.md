@@ -1,4 +1,26 @@
 # IT-Skills-Portfolio
+# 👋 Hi, I'm Dan Banquerigo
+
+## 🎯 Branding Tagline  
+> *“God will surely complete the work He began” — Philippians 1:6*
+
+---
+
+## 🧭 About Me
+
+I am a learner and creative builder passionate about developing meaningful, purpose-driven work that blends creativity, discipline, and faith. I value excellence in design and communication, and I aim to grow every project with intentionality and clarity.
+
+---
+
+## 🖼️ Branding Banner
+
+![Banquerigo Profile Banner](Branding%20Kit/Banquerigo,%20Profile%20Banner.png)
+
+---
+
+## ✨ Reflection on My Branding
+
+This branding represents my identity as a developing creative who values both structure and purpose. I chose a clean and professional visual style to communicate focus, growth, and clarity in my work. The integration of my personal tagline reflects my foundation in faith and my belief that progress is guided by a higher purpose rather than personal effort alone.
 
 # Interactive Markdown Prompt Playbook
 ## Localized AI Prompt Framework for LGU Communications (Davao Region)
