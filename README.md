@@ -116,11 +116,7 @@ The icon should communicate localized public service, agriculture, and community
 
 ---
 
-# Literature Verification Log
-
----
-
-# 📊 Literature Verification Log
+# 📖 Literature Verification Log
 
 ## Topic: Renewable Energy Transition Challenges in Mindanao Power Grid Infrastructure
 
@@ -183,7 +179,7 @@ AI-assisted literature reviews are valuable for rapid thematic mapping of comple
 
 ---
 
-# AI for Research & Data Analysis (Visual Reports)
+# 📊 AI for Research & Data Analysis (Visual Reports)
 
 ---
 
