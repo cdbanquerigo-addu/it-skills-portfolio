@@ -184,7 +184,7 @@ AI-assisted literature reviews are valuable for rapid thematic mapping of comple
 ---
 
 #### 1. Data Cleaning Protocol Log
-- **Raw Input Problem:** The dataset contained inconsistent yearly production entries across Mindanao provinces, missing values for 2023, and mixed formatting between raw production figures and indexed values. Several duplicate province-year records also caused distortions in trend analysis. (https://www.kaggle.com/datasets/cemprondanziel/palay-and-corn-dataset-philippines?)
+- **Raw Input Problem:** The dataset contained inconsistent yearly production entries across Mindanao provinces, missing values for 2023, and mixed formatting between raw production figures and indexed values. Several duplicate province-year records also caused distortions in trend analysis. (https://www.kaggle.com/datasets/cemprondanziel/palay-and-corn-dataset-philippines)
 - **AI Cleaning Instruction:** `"Scan this dataset. Identify all null values in the 'Production' column and replace them using median-based interpolation within each provincial cluster. Standardize all values into a unified Production Index (MT-equivalent scale). Remove duplicate records and restructure the dataset into a consistent time-series format from 2020–2025. Output first 5 rows of cleaned data."`
 - **Result:** Successfully normalized production data across five Mindanao provinces, producing a structured 6-year time-series dataset with complete temporal continuity.
 
