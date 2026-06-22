@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Chris Daniel A. Banquerigo
 
 ## 🎯 Tagline  
-> *“God will surely complete the work He began” — Philippians 1:6*
+> *"For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus." — Philippians 1:6*
 
 ---
 
