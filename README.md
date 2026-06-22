@@ -22,6 +22,11 @@ I am a sinner who was dead to sin, yet made alive by Jesus Christ through His gr
 
 This branding represents my identity as a developing creative who values both structure and purpose. I chose a clean and professional visual style to communicate focus, growth, and clarity in my work. The integration of my personal tagline reflects my foundation in faith and my belief that progress is guided by a God's greater purpose rather than personal effort alone.
 
+
+---
+---
+
+
 # 📋 Interactive Markdown Prompt Playbook
 ## Localized AI Prompt Framework for LGU Communications (Davao Region)
 
