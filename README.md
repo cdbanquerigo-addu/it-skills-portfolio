@@ -14,7 +14,7 @@ I am a sinner who was dead to sin, yet made alive by Jesus Christ through His gr
 
 ## 🖼️ Branding Banner
 
-![Banquerigo Profile Banner](Branding%20Kit/Banquerigo%2C%20Profile%20Banner.png)
+![Banquerigo Profile Banner](Visuals/Banquerigo, Profile Banner.png)
 
 ---
 
