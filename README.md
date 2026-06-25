@@ -14,7 +14,7 @@ I am a sinner who was dead to sin, yet made alive by Jesus Christ through His gr
 
 ## 🖼️ Branding Banner
 
-(Visuals/Banquerigo, Profile Banner.png)
+![Davao Agro-Logistics System Logo](Visuals/Banquerigo, Profile Banner.png)
 
 ---
 
