@@ -14,13 +14,13 @@ I am a sinner who was dead to sin, yet made alive by Jesus Christ through His gr
 
 ## 🖼️ Branding Banner
 
-![Davao Agro-Logistics System Logo](Visuals/Banquerigo, Profile Banner.png)
+![Banquerigo Profile Banner](Visuals/Banquerigo%2C%20Profile%20Banner.png)
 
 ---
 
 ## ✨ Reflection on My Branding
 
-This branding represents my identity as a developing creative who values both structure and purpose. I chose a clean and professional visual style to communicate focus, growth, and clarity in my work. The integration of my personal tagline reflects my foundation in faith and my belief that progress is guided by a God's greater purpose rather than personal effort alone.
+This branding represents my identity as a developing creative who values both structure and purpose. I chose a clean and professional visual style to communicate focus, growth, and clarity in my work.[...]
 
 
 ---
@@ -79,8 +79,8 @@ Additional Constraints:
 | Version | Prompt | Weakness | Improvement |
 |----------|--------|----------|-------------|
 | **V1** | Create a communication campaign for farmers. | Too generic; no geographic context or audience. | Add a specific location and define the communication objective. |
-| **V2** | Create a communication campaign for vegetable farmers in Davao del Norte promoting efficient agricultural logistics. | Better localization but lacks stakeholder identification and formatting requirements. | Specify stakeholders, tone, and desired output format. |
-| **V3 (Final)** | You are an LGU Communication Specialist. Develop a professional action plan for vegetable farmers in Davao del Norte focusing on agricultural logistics. Address barangay officials, cooperatives, transport groups, and farmers. Use clear headings, bullet points, localized examples, and practical recommendations while maintaining a formal government tone. | Fully localized, audience-specific, structured, and reusable. | Ready for repeated use across LGU communication projects. |
+| **V2** | Create a communication campaign for vegetable farmers in Davao del Norte promoting efficient agricultural logistics. | Better localization but lacks stakeholder identification and forma[...] 
+| **V3 (Final)** | You are an LGU Communication Specialist. Develop a professional action plan for vegetable farmers in Davao del Norte focusing on agricultural logistics. Address barangay officia[...]
 
 ---
 
@@ -144,7 +144,7 @@ An AI-assisted synthesis of literature on Mindanao's energy system identifies th
 
 | AI-Generated Statement | Source Type Used for Verification | Status | Human Verification Note |
 | :--- | :--- | :--- | :--- |
-| Mindanao relies heavily on coal-fired plants for baseload electricity | DOE energy mix reports, sector analyses | ✔ Verified | Coal remains a major baseload source, especially during low hydro periods |
+| Mindanao relies heavily on coal-fired plants for baseload electricity | DOE energy mix reports, sector analyses | ✔ Verified | Coal remains a major baseload source, especially during low hydr[...] 
 | Agus-Pulangi hydroelectric system is a key renewable backbone | National Power Corporation (NPC) operational data | ✔ Verified | Agus-Pulangi is one of the largest hydro sources in Mindanao |
 | Renewable integration is limited due to grid bottlenecks | NGCP transmission and grid reports | ✔ Verified | Transmission constraints affect energy distribution efficiency |
 | DOE promotes renewable energy expansion | Philippine Energy Plan (DOE) | ✔ Verified | Renewable expansion is part of national policy roadmap |
@@ -164,17 +164,17 @@ An AI-assisted synthesis of literature on Mindanao's energy system identifies th
 
 ## 4. Critical Reflection on AI Output
 
-AI-generated literature summaries effectively identify major structural components of Mindanao's energy system, particularly the dominance of coal-fired baseload power and the importance of hydropower infrastructure such as the Agus-Pulangi complex.
+AI-generated literature summaries effectively identify major structural components of Mindanao's energy system, particularly the dominance of coal-fired baseload power and the importance of hydro[...]
 
-However, limitations were observed in the form of generalized statements that may overstate the pace of renewable energy transition. AI outputs also tend to blur distinctions between policy targets and current operational realities.
+However, limitations were observed in the form of generalized statements that may overstate the pace of renewable energy transition. AI outputs also tend to blur distinctions between policy targe[...]
 
-This exercise demonstrates the importance of human verification using authoritative sources such as the Department of Energy (DOE), National Power Corporation (NPC), National Grid Corporation of the Philippines (NGCP), and PAGASA. While AI is useful for synthesis, it requires careful validation before use in policy or academic contexts.
+This exercise demonstrates the importance of human verification using authoritative sources such as the Department of Energy (DOE), National Power Corporation (NPC), National Grid Corporation of the P[...]
 
 ---
 
 ## 5. Conclusion
 
-AI-assisted literature reviews are valuable for rapid thematic mapping of complex policy domains. However, human verification remains essential to ensure factual accuracy, especially in infrastructure-critical sectors such as energy planning.
+AI-assisted literature reviews are valuable for rapid thematic mapping of complex policy domains. However, human verification remains essential to ensure factual accuracy, especially in infrastru[...]
 
 ---
 
@@ -189,8 +189,8 @@ AI-assisted literature reviews are valuable for rapid thematic mapping of comple
 ---
 
 #### 1. Data Cleaning Protocol Log
-- **Raw Input Problem:** The dataset contained inconsistent yearly production entries across Mindanao provinces, missing values for 2023, and mixed formatting between raw production figures and indexed values. Several duplicate province-year records also caused distortions in trend analysis. (https://www.kaggle.com/datasets/cemprondanziel/palay-and-corn-dataset-philippines)
-- **AI Cleaning Instruction:** `"Scan this dataset. Identify all null values in the 'Production' column and replace them using median-based interpolation within each provincial cluster. Standardize all values into a unified Production Index (MT-equivalent scale). Remove duplicate records and restructure the dataset into a consistent time-series format from 2020–2025. Output first 5 rows of cleaned data."`
+- **Raw Input Problem:** The dataset contained inconsistent yearly production entries across Mindanao provinces, missing values for 2023, and mixed formatting between raw production figures and i[...]
+- **AI Cleaning Instruction:** `"Scan this dataset. Identify all null values in the 'Production' column and replace them using median-based interpolation within each provincial cluster. Standardi[...]`
 - **Result:** Successfully normalized production data across five Mindanao provinces, producing a structured 6-year time-series dataset with complete temporal continuity.
 
 ---
@@ -205,6 +205,6 @@ AI-assisted literature reviews are valuable for rapid thematic mapping of comple
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 
-"The data chart clearly shows an abrupt decline in Mindanao palay production centered in 2023. While the automated AI analysis attributes this drop to normal agricultural variability, contextual interpretation indicates that the decline aligns strongly with a severe El Niño-related drought period affecting large portions of Southern and Central Mindanao.
+"The data chart clearly shows an abrupt decline in Mindanao palay production centered in 2023. While the automated AI analysis attributes this drop to normal agricultural variability, contextual [...]
 
-This drop emphasizes the urgent need for NEDA and local LGUs to invest heavily in climate-resilient agricultural infrastructure such as solar-powered irrigation systems, improved water retention farming techniques, and early-warning climate forecasting systems. Without structural intervention, similar climate shocks may continue to disrupt regional food security stability."
+This drop emphasizes the urgent need for NEDA and local LGUs to invest heavily in climate-resilient agricultural infrastructure such as solar-powered irrigation systems, improved water retention ...
